@@ -2,7 +2,7 @@ build:
   version: "1.1"
 
 accounts:
-  message: "Welcome to Accounts Services related Prod APIs "
+  message: "Welcome to Accounts Services related Production APIs "
   contactDetails:
     name: "Alex Hales - Product Owner"
     email: "alex.hales@eazybank.com"
