@@ -1,0 +1,11 @@
+build:
+  version: "2.1"
+
+loans:
+  message: "Welcome to Loans service related QA APIs "
+  contactDetails:
+    name: "Swati Madrena - QA Lead"
+    email: "swati@eazybank.com"
+  onCallSupport:
+    - (412) 419-3491
+    - (915) 382-1932

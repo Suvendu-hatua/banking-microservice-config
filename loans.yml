@@ -1,0 +1,11 @@
+build:
+  version: "3.1"
+
+loans:
+  message: "Welcome to Loans service related local APIs "
+  contactDetails:
+    name: "Alexa Lech - Developer"
+    email: "alexa@eazybank.com"
+  onCallSupport:
+    - (412) 419-3491
+    - (915) 382-1932
