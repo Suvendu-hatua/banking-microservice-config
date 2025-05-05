@@ -2,7 +2,7 @@ build:
   version: "3.1"
 
 loans:
-  message: "Welcome to Loans service related local APIs "
+  message: "Welcome to Loans service related local/default profile APIs "
   contactDetails:
     name: "Alexa Lech - Developer"
     email: "alexa@eazybank.com"
