@@ -2,7 +2,7 @@ build:
   version: "3.1"
 
 cards:
-  message: "Welcome to Cards service related default profile APIs From GitHub"
+  message: "Welcome to Cards service related default profile APIS"
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@eazybank.com"
