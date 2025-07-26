@@ -2,7 +2,7 @@ build:
   version: "3.1"
 
 loans:
-  message: "Welcome to Loans service related default profile APIs from GitHub"
+  message: "Welcome to Loans service related default profile API"
   contactDetails:
     name: "Alexa Lech - Developer"
     email: "alexa@eazybank.com"
